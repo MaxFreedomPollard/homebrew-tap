@@ -1,6 +1,6 @@
 cask "max-watch" do
-  version "1.1.0"
-  sha256 "3b1a1c89d7ec6d306bc16af23854f81e272b90c3e8ad927c50e4fdd39057818c"
+  version "1.2.0"
+  sha256 "7e550e4869bc8ec1b2e4b930a22868291923f07a0964c3eeb4bf7f567718660c"
 
   url "https://github.com/MaxFreedomPollard/Max-Watch/releases/download/v#{version}/Max-Watch-#{version}.dmg"
   name "Max Watch"
